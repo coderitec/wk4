@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.508);
+    background: linear-gradient(180deg, green 30%, white 30%, white 65%, green 65%);
+    margin: auto;
+}
+
+h1 span {
+    color: red;
+}
